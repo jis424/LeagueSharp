@@ -1194,13 +1194,14 @@ namespace ezEvade
             {
                 charName = "Heimerdinger",
                 dangerlevel = 2,
-                name = "HeimerdingerW",
+                missileName = "HeimerdingerWAttack2"
+                name = "Heimerdingerwm",
                 projectileSpeed = 2500,
-                radius = 50,
+                radius = 70,
                 range = 1350,
                 spellDelay = 250,
                 spellKey = SpellSlot.W,
-                spellName = "HeimerdingerW",
+                spellName = "Heimerdingerwm",
                 spellType = SpellType.Line,
                 isSpecial = true,
                 defaultOff = true,
