@@ -1194,7 +1194,7 @@ namespace ezEvade
             {
                 charName = "Heimerdinger",
                 dangerlevel = 2,
-                missileName = "HeimerdingerWAttack2"
+                missileName = "HeimerdingerWAttack2",
                 name = "Heimerdingerwm",
                 projectileSpeed = 2500,
                 radius = 70,
